@@ -1,5 +1,5 @@
 nomes = ['Ana', 'Maria','Pedro','Lucas','João']
-repfalta = 3
+
 
 print('___AGENDA DE CLASSE___')
 for nome in nomes:
