@@ -10,7 +10,7 @@ elif rodas==4 and capacidade<=8 and peso<=3500:
     print('Seu carro ideal deve ser um Kia Carvival ou Ford Expedition')
 elif rodas>=4 and capacidade>8 and capacidade<=20:
     print('Seu veículo ideal é um Micro-ônibus. Os dois modelos disponíveis são: Macopolo Senior Midi 2010 e Volare fly 10')
-    #necessario adicionar opção 
+    #necessario adicionar opção
 elif rodas>4 and capacidade>20:
     print('Seu carro ideal deve um ônibus')
     #necessario especificar a capacidade para não ocorrer erros
