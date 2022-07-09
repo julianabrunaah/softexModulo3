@@ -45,7 +45,7 @@ for cont in range(0,20):
 print(f'O candidato X recebeu {len(votosX)} votos')
 print(f'O candidato Y recebeu {len(votosY)} votos')
 print(f'O candidato Z recebeu {len(votosZ)} votos')
-print(f'Total de votos nulos {len(votosNulos)} votos')
+print(f'Total de votos branco e nulos {len(votosNulos)} votos')
 
 if votosX > votosZ and votosX > votosY:
     print('O vencedor foi o candidato X!')
