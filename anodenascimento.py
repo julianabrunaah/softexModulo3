@@ -15,6 +15,6 @@ while aniversario:
             print('Ano de nascimento inválido')
     except:
         # a mensagem
-        # print('Ano de nascimento inválido')
+        print('Dado inválido. Tente novamente')
         # por algum erro que não identifiquei não aparecia no terminal
         continue
